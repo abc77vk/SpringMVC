@@ -1,4 +1,4 @@
-package my.test.webapp;
+package my.test.webapp.web;
 
 import java.text.DateFormat;
 import java.util.Date;
