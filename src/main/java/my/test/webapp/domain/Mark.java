@@ -11,9 +11,7 @@ import javax.persistence.Table;
 @Entity
 @Table(name = "MARK")
 public class Mark {
-	
-	
-	
+
 	public Mark() {
 	}
 
